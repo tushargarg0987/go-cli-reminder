@@ -14,10 +14,10 @@ go-cli-reminder <hh:mm> <text>
 ## Example
 
 ```bash
-go-cli-reminder 14:30 Meeting with Team
+go-cli-reminder 14:30 "Meeting with Team"
 ```
 
-This will set a reminder for 2:30 PM with the message "Meeting with Team."
+This will set a reminder for 2:30 PM with the message "Meeting with Team"
 
 ## Installation
 
