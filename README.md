@@ -47,6 +47,13 @@ go build
 ./go-cli-reminder <hh:mm> <text>
 ```
 
+## Dependencies
+
+This project uses the following third-party packages:
+
+- [github.com/olebedev/when](https://github.com/olebedev/when): A natural language date and time parsing library.
+- [github.com/gen2brain/beeep](https://github.com/gen2brain/beeep): A cross-platform package for sending desktop notifications.
+
 ## Contributing
 
 If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Your contributions are always welcome!
