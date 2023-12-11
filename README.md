@@ -44,7 +44,7 @@ go build
 5. Run the program:
 
 ```bash
-./go-cli-reminder [time] [text]
+./go-cli-reminder <hh:mm> <text>
 ```
 
 ## Contributing
